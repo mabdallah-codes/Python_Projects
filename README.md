@@ -7,6 +7,8 @@
 -11.01.2021 Decion Tree project 
 -12.01.2021 Logistic Regression
 -13.01.2021 Pandas Tutorial
+-14.01.2021 Logistic Regression
+-14.01.2021 Support Vector Machine (SVM)
 
 
 

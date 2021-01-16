@@ -14,7 +14,8 @@
 
 2- Clustering:
 
--15.01.2021 M Means Clustering
+-15.01.2021 K Means Clustering
+-16.01.2021 Hierarchical Clustering - Agglomerative
 
 
 

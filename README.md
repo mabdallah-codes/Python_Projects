@@ -19,6 +19,12 @@
 -17.01.2021 Density-Based Clustering
 
 
+3- Recommendation Systems:
+
+-18.01.2021  Content-Based Filtering
+-18.01.2021  Collaorative Filtering
+
+
 
 
 
